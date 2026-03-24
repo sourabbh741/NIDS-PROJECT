@@ -1,2 +1,8 @@
 # NIDS-PROJECT
-ML-based Network Intrusion Detection System
+# ML-Based Network Intrusion Detection System
+
+## Features
+- ML anomaly detection
+- Packet sniffing
+- Logging
+- Flask dashboard
